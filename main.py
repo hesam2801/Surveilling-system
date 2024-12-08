@@ -9,7 +9,6 @@ if not os.path.exists("images/"):
 
 main_urls = []
 urls = []
-img_urls = []
 downloaded_urls = []
 
 
@@ -59,7 +58,6 @@ def download_image(src: str) -> bool:
 
 def get_images_url() -> None:
     global downloaded_urls
-    global img_urls
     global urls
     try:
         while True:

@@ -20,8 +20,8 @@ this code is for mac: \
 ## Learn More
 For a detailed explanation of how this system works and insights into building real-time surveillance automation, check out my article: 
 
-- <a>Read the Full Article on Medium</a>
+- <a href="https://medium.com/@hesam.alavi1380/building-a-real-time-surveillance-system-with-python-automating-content-monitoring-and-downloads-e92291ef6a4e">Read the Full Article on Medium</a>
 
 Connect with me on LinkedIn for more projects and updates:
 
-- <a>Follow Me on LinkedIn</a>
+- <a href="https://www.linkedin.com/pulse/building-real-time-surveillance-system-python-automating-hesam-alavi-kzilf/">Follow Me on LinkedIn</a>
